@@ -6,8 +6,8 @@
 
 
 ## GRAPHS
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/79db24ad-0c4d-42af-9176-ba1765b997e3" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c42f478-195b-4a37-b095-e95d32f0dffe" />
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
